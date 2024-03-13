@@ -11,10 +11,10 @@
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wildfrenzy&show_icons=true&count_private=true&theme=transparent&hide=prs" />&nbsp;&nbsp;
+<!--    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wildfrenzy&show_icons=true&count_private=true&theme=transparent&hide=prs" />&nbsp;&nbsp; 
+    -->
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildfrenzy&layout=compact&count_private=true&theme=transparent" />&nbsp;&nbsp;
 </p>
-
 
 
 ## 🦉 After midnight I am most likely there:
@@ -29,17 +29,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-maliarenko/) &nbsp;
 [![Treads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@esperanzzza.nm) &nbsp;
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31kbvby5pxgwmucpr2ht3irhrgai&count=3)](https://open.spotify.com/user/31kbvby5pxgwmucpr2ht3irhrgai)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wildfrenzy&label=Profile%20views&color=0e75b6&style=flat" alt="wildfrenzy" /> </p>
 
 <!--
-**wildfrenzy/wildfrenzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31kbvby5pxgwmucpr2ht3irhrgai&count=3)](https://open.spotify.com/user/31kbvby5pxgwmucpr2ht3irhrgai).
 -->
